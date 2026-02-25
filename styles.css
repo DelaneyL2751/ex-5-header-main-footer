@@ -1,0 +1,25 @@
+.home-page {
+    background-color: rgb(255, 183, 219);
+}
+h1, h2 {
+    font-family: "rl-horizon", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+body {
+    font-family: "kit-rounded", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.header {
+    background-color: rgb(208, 141, 174);
+}
+.main {
+    background-color: rgb(189, 117, 153);
+}
+.footer {
+    background-color: rgb(140, 81, 110);
+}
+
+
